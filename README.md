@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Maxi Morrobel
 - 🌎 Dominican Republic
 - 🧑‍💻 Software Developer
-- 👀 I’m interested in Desktop and Web Development
+- 👀 I’m interested in Back-End Web Development
 - 🎓 I’m currently studying at [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
 - 📫 Email <a href="mailto:maxicueto603@gmail.com">maxicueto603@gmail.com</a>
 - ☎️ Phone number `829-750-8138` 
