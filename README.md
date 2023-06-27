@@ -6,7 +6,6 @@
 - 👀 I’m interested in Back-End Web Development
 - 🎓 I’m currently studying at [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
 - 📫 Email <a href="mailto:maxicueto603@gmail.com">maxicueto603@gmail.com</a>
-- ☎️ Phone number `829-750-8138` 
 
 &nbsp;
 ## :earth_americas: Languages:   
